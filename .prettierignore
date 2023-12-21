@@ -12,12 +12,9 @@ node_modules*/
 /lib*/
 /tmp*/
 
-.DS_Store
-.eslintcache
-.npmrc
-*.tgz
-*.tsbuildinfo
-npm-debug.log
-package-lock.json
-yarn-error.log
+# Gantry resource files support non-standard template syntax
+/.gantry/**/*.yaml
+/.gantry/**/*.yml
+gantry*.yaml
+gantry*.yml
 # end managed by skuba

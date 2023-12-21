@@ -11,13 +11,4 @@ node_modules*/
 /dist*/
 /lib*/
 /tmp*/
-
-.DS_Store
-.eslintcache
-.npmrc
-*.tgz
-*.tsbuildinfo
-npm-debug.log
-package-lock.json
-yarn-error.log
 # end managed by skuba
